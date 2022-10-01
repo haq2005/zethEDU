@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zethEDU/static/css/main.f2fce958.css",
-    "main.js": "/zethEDU/static/js/main.fd0c66aa.js",
+    "main.js": "/zethEDU/static/js/main.f3c08bbb.js",
     "static/js/787.f068bfb0.chunk.js": "/zethEDU/static/js/787.f068bfb0.chunk.js",
     "static/media/issue.gif": "/zethEDU/static/media/issue.1bce5deb6cbe4f6e9ce4.gif",
     "static/media/entrance.png": "/zethEDU/static/media/entrance.a491f988bdfa1becaf1d.png",
@@ -9,11 +9,11 @@
     "static/media/account.png": "/zethEDU/static/media/account.02a256c883f1b449e54a.png",
     "index.html": "/zethEDU/index.html",
     "main.f2fce958.css.map": "/zethEDU/static/css/main.f2fce958.css.map",
-    "main.fd0c66aa.js.map": "/zethEDU/static/js/main.fd0c66aa.js.map",
+    "main.f3c08bbb.js.map": "/zethEDU/static/js/main.f3c08bbb.js.map",
     "787.f068bfb0.chunk.js.map": "/zethEDU/static/js/787.f068bfb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2fce958.css",
-    "static/js/main.fd0c66aa.js"
+    "static/js/main.f3c08bbb.js"
   ]
 }
